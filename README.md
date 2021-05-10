@@ -11,12 +11,14 @@
 
 
 ### Trello link:
+[https://trello.com/b/cArs8vfG/pl-project](url)
 
 
 ### Figma design:
 ![Снимок экрана (15)](https://user-images.githubusercontent.com/81102375/117640364-c6a01700-b1a6-11eb-992d-195e10fadcca.png)
 
 ### Figma link:
+[https://www.figma.com/file/xCurctD5wSVDgMkuCrkyTJ/Untitled?node-id=0:1](url)
 # Codes
 
 ## Initialising Screen
