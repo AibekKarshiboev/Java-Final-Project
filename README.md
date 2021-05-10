@@ -107,3 +107,4 @@ public class MineField implements MouseListener {
     }
 
 ```
+### Trello screenshot:
